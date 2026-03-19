@@ -1,10 +1,9 @@
-# Hi, I'm João Canais 👋
+# Hi, I'm João Canais
 
 *BSc Computer Engineering · University of Coimbra (FCTUC)* *Coimbra, Portugal 🇵🇹*
 
 [![](https://img.shields.io/badge/Website-joaocanais.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://joaocanais.com)
 [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-canais/)
-[![](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:japcanais@gmail.com)
 
 ---
 
