@@ -34,40 +34,6 @@ I am a final-year Computer Engineering student deeply driven to build impactful,
 
 ---
 
-## 📂 Featured Projects
-
-### 🌊 Associação Portuguesa Lixo Marinho (APLM)
-> **Pro-bono Full-Stack Developer**
-
-Developed a pro-bono platform aimed at gamifying environmental cleanups across Portuguese beaches. Integrated an AI-powered tool for marine trash recognition with a dynamic points system, national leaderboards, and unlockable achievements to drive user engagement.  
-`Django` `Python` `Artificial Intelligence` `Gamification`
-
----
-
-### 👥 Recruitment Management Platform
-> **Project Manager & Developer**
-
-Built a comprehensive recruitment platform for JeKnowledge featuring a robust admin dashboard. Engineered automated email workflows, advanced candidate analysis, and a dynamic self-service scheduling system for booking interviews based on real-time availability.  
-`Full-Stack` `TypeScript` `Automation` `Project Management`
-
----
-
-### 🚀 Shift Appens Hackathon
-> **Full-Stack Developer**
-
-Core developer for the official support platform of the largest and oldest hackathon in Portugal's Central region. Delivered key functionalities including a seamless participant registration flow, real-time points system, live photo galleries, and team check-ins.  
-`React Native` `Django` `Event Management`
-
----
-
-### 🚶 Human Activity Recognition
-> **Machine Learning & Data Engineering**
-
-Academic project focused on analyzing sensor data to map and identify human behaviors. Applied Machine Learning techniques to process raw data, creating complex embeddings to accurately classify various physical activities.  
-`Machine Learning` `Data Engineering` `Python` `Embeddings`
-
----
-
 ## 🌐 Languages
 
 🇵🇹 Portuguese — Native &nbsp;|&nbsp; 🇬🇧 English — Proficient
